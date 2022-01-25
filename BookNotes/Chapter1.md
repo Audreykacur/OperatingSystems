@@ -56,8 +56,58 @@ Bottom up
 	OS allows multiple programs to be in the memory ansd run at the same time 
 
 	multiplexing : (a step in resource manangement) Sharing resources in two different ways : time and space 
+	ex. resource is time multiplexed: different programs or users take turns using it ex.2 how CPU is distributed 
+	ex. resource it space multiplexed: each one gets a part of the resource ex. main memory being spit up between multiple applications at the same time ex.2 the disk
 
-	ex. resource is time multiplexed: different pro
+
+***1.2 HISTORY OF OPERATING SYSTEMS***
+
+	The first digital computer 
+		designed by English mathematician Charles Babbage (1792 - 1871)
+		did not have an operating system - technology was not there 
+
+		Babbage hired Ada Lovelace as the world's first programmer 
+
+**1.2.1 THE FIRST GENERATION (1945 - 55): VACUUM TUBES**
+WWII Period
+- John Atanasoff and his graduate student Clifford Berry 
+	- built the first functioning digital computer at Iowa State University.
+	-  It used 300 vacuum tubes
+- Konrad Zuse in Berlin 
+	- built Z3 computer out of electromechanical relay
+- 1944 
+	- Colossus 
+		- built and programmed by a group of scientists (including Alan Turing) at Bletchley Park, England
+	- the Mark I  
+		- built by Howard Aiken at Harvard
+	- ENIAC 
+		- built by William Mauchley and his graduate student J. Presper Eckert at the University of Pennsylvania.
+	- all very primative and took seconds to perform simple calculations
+	- written in machine langauge or by wired circuits
+	- 20,000ish vacuum tubes
+	- problems were strightforward mathematical and numerical calculations
+- 1950's
+	- introduction of punch cards : write programs on cards and read them instead of using plugboards
+
+
+**1.2.2 THE SECOND GENERATION (1955 - 65): TRANSISTORS AND BATCH SYSTEMS**
+
+- page 8 to 15
+
+**1.2.4 THE FOURTH GENERATION (1980 - PRESENT): PERSONAL COMPUTERS**
+- page 15 - 19 
+
+**1.2.5 THE FIFTH GENERATION (1990 - Present): Mobile computers**
+- PDA(Personal Digital Assistant
+- Symbian OS - operating system of choice for popular brands like Samsung, Sony Ericsson, Motorola, Nokia
+- RIM's Blackberry OSS
+- Iphone released in 2007
+
+
+
+
+
+
 
 
 
